@@ -34,3 +34,5 @@ return new class extends Migration
 };
 
 コメント
+
+ブランチ分ける作業中
